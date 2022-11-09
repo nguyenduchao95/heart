@@ -16,6 +16,7 @@ svg path:nth-child(1) {
 
 svg path:nth-child(2) {
     filter: blur(1px);
+    -webkit-filter: blur(1px);
     fill: rgb(255, 165, 0, 0.5);
     stroke: yellow;
     stroke-width: 1.2px;
